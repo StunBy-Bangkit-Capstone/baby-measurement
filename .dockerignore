@@ -1,4 +1,3 @@
-env/
 venv/
 *.pyc
 app/__pycache__/
