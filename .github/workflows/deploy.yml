@@ -41,6 +41,4 @@ jobs:
             --region=${{ secrets.GCP_REGION }} \
             --platform=managed \
             --allow-unauthenticated \
-            --memory 4Gi\
-            --min-instances=1\
-            --cpu 4\
+            
